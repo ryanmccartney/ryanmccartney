@@ -5,11 +5,9 @@
 * 🔭 I’m currently working on DASH streaming technology
 * 🌱 I’m currently learning go
 * 🤝 I’m looking to collaborate on open source embedded projects
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
+* 🤔 I’m looking for help with improving embedded skills
+* 💬 Ask me about broadcast technology
 * 📫 How to reach me: info@mccartney.info
-* ❤️ I love ...
-* ⚡ Fun fact: ...
 
 ## 🚀 Some Tools I Have Used and Learned
 
