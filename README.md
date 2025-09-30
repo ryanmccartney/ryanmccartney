@@ -32,5 +32,5 @@
 </p>
 
 <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryanmccartney&show_icons=true&locale=en" alt="ryanmccartney" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ryanmccartney&show_icons=true&locale=en" alt="ryanmccartney" />
 </p>
