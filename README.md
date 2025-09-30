@@ -30,3 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="socket.io" width="45" height="45"/>
 </p>
+
+<p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryanmccartney&show_icons=true&locale=en" alt="ryanmccartney" />
+</p>
