@@ -11,12 +11,7 @@
 
 ## 🚀 Some Tools I Have Used and Learned
 
-<div style="
-  display:grid;
-  grid-template-columns:repeat(3, 1fr);
-  gap:10px;
-  max-width:400px;
-">
+<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:10px; max-width:400px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" alt="wasm" width="45" height="45"/>
